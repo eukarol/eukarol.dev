@@ -2,7 +2,7 @@
 
 ![Imagem do projeto finalizado](assets/images/portifolio.png)
 
-<h4 align="center"><a href="https://eukarol.vercel.app">Confira o projeto aqui</a></h4>
+<h4 align="center"><a href="https://eukarol-dev.vercel.app/">Confira o projeto aqui</a></h4>
 
 ---
 
