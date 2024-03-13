@@ -1,6 +1,6 @@
 <h1 align="center">Portifólio - Karol Araújo 💻</h1>
 
-![Imagem do projeto finalizado](assets/images/projects/portifolio.png)
+![Imagem do projeto finalizado](assets/images/portifolio.png)
 
 <h4 align="center"><a href="https://eukarol.vercel.app">Confira o projeto aqui</a></h4>
 
